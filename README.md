@@ -26,6 +26,8 @@ https://cloud.mail.ru/public/12AA/FrSe4G9Sf
 
 # Хаб (скриншоты)
 ![Alt text](image-1.png)
+# Миникарта (скриншоты)
+![Alt text](image40.png)
 # Банк (скриншоты)
 ![Alt text](image.png)
 ![Alt text](image-2.png)
