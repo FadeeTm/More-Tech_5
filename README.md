@@ -24,12 +24,12 @@ https://cloud.mail.ru/public/12AA/FrSe4G9Sf
 - MiniMap (изометрическая карта со всеми локациями)
 - NewHub (основной hub пользователя, банк)
 
-# Банк (скриншоты)
+# Хаб (скриншоты)
 ![Alt text](image-1.png)
+# Банк (скриншоты)
 ![Alt text](image.png)
 ![Alt text](image-2.png)
 ![Alt text](image-3.png)
-
 # Средневековье (скриншоты)
 ![Alt text](image10.png)
 ![Alt text](image20.png)
