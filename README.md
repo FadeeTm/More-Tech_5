@@ -29,3 +29,8 @@ https://cloud.mail.ru/public/12AA/FrSe4G9Sf
 ![Alt text](image.png)
 ![Alt text](image-2.png)
 ![Alt text](image-3.png)
+
+# Средневековье (скриншоты)
+![Alt text](image10.png)
+![Alt text](image20.png)
+![Alt text](image30.png)
